@@ -26,7 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
 
 
-<button type="button" onclick="alert('Button clicked!')">Login!</button>
+<button type="button" onclick="alert('Button clicked!')">Shop Now!</button>
 
 <script>
 function myFunction() {
