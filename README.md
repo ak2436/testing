@@ -1,2 +1,2 @@
 # testing
-Repo for some resting
+Repo for testing
